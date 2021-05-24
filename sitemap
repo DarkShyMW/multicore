@@ -1,0 +1,6 @@
+// identificator : NAME  --> URL --> PARENT (optional)
+
+homepage         : Главная       --> /
+contact          : Контакты        --> /contact/         --> homepage
+terms            : Правила          --> /terms/           --> homepage
+privacy          : Политика        --> /terms/privacy/   --> terms

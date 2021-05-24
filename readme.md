@@ -1,12 +1,6 @@
-# Empty project: REST Service
+# Multi core CMS 
 
-- [Documentation](https://docs.totaljs.com)
-- [Join Total.js Telegram](https://t.me/totaljs)
-- [Support](https://www.totaljs.com/support/)
+- [Try to use](http://93.95.167.101:3000)
+- [DayZ Project](https://forum.slainscraft.com)
+- [Partnership](https://gigi.slainscraft.com/)
 
-__Instructions__:
-
-- install the latest version of the __Total.js framework 4__ from NPM `$ npm install total4`
-- download example
-- run `$ node index.js`
-- open browser `http://127.0.0.1:8000`
